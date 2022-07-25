@@ -43,3 +43,5 @@ const produtores = {
         }
     ]
 }
+
+export default produtores;
